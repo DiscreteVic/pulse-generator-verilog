@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "HEX0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ARDUINO_IO[13]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_CLK_10",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
